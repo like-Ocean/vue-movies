@@ -3,4 +3,4 @@
 This is an educational project
 
 ## Link
-- https://like-ocean.github.io/
+- https://like-ocean.github.io/vue-movies
